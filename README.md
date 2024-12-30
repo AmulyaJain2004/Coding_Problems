@@ -1,2 +1,2 @@
-# Coding_Problems
-Repository to discuss, learn and solve coding problems and concepts
+# The Art of Leetcoding
+Repository to solve leetcode problems and concepts
